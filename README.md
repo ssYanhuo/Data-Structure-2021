@@ -1,6 +1,6 @@
 # Data Structure 2021
 
-
+<br>
 
 ### What is this project for? / 这个工程是什么？
 
@@ -8,7 +8,7 @@ This is a repository of my DS experiment class. I published this repo in order t
 
 这是我的数据结构实验课的代码仓库。为了和大家共同学习和进步，我公开了这些源码。
 
-
+<br>
 
 ### How to use? / 如何使用这个工程？
 
@@ -16,7 +16,7 @@ To compile the code, you need a `C++ compiler` or `IDE`. I used `g++` in develop
 
 编译源码需要一个`C++编译器`或者`集成开发环境`。我在开发和测试时使用了`g++`编译器。
 
-
+<br>
 
 When you are ready, you can enter in one of the folders to try these data structure libs.
 
@@ -26,7 +26,7 @@ When you are ready, you can enter in one of the folders to try these data struct
 cd ONE_OF_DATA_STRUCTURES
 ```
 
-
+<br>
 
 Then, use your compiler or IDE, compile it!
 
@@ -36,7 +36,7 @@ Then, use your compiler or IDE, compile it!
 g++ -o TestCase-XX.cpp
 ```
 
-
+<br>
 
 ### Directory structure / 目录结构
 
@@ -49,7 +49,7 @@ Data-Structure-2021
     	└─SeqList.h
 ```
 
-
+<br>
 
 ### One more thing / 一些碎碎念
 
@@ -57,7 +57,7 @@ Libs in my project can only meet the requirements of my homework, they may not s
 
 这些数据结构仅仅能满足我的实验课需求，也就是说，它们的稳定性和功能性并不足以支持其他用途。所以**请千万不要**在其它工程中使用这些数据结构库。
 
-
+<br>
 
 If you think this project is helpful, you can click `star` and `follow` to support me :)
 

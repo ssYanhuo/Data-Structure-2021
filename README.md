@@ -43,10 +43,10 @@ g++ -o TestCase-XX.cpp
 ```
 Data-Structure-2021
 └─/01SeqList
-	├─TestCase.cpp		//tests 测试样例
+    ├─TestCase.cpp		//tests 测试样例
     └─/SeqList			//libs 封装好的库
-    	├─SeqList.cpp
-    	└─SeqList.h
+        ├─SeqList.cpp
+        └─SeqList.h
 ```
 
 <br>

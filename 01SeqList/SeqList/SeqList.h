@@ -15,7 +15,7 @@ public:
     SeqList(SeqList &L);
     ~SeqList();
     void output();
-    bool insert(T &num, int position);
+    bool insert(int position, T &num);
     bool remove(int position, T &x);
     int size();
     int length();

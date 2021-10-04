@@ -37,7 +37,7 @@ void SeqList<T>::output(){
 }
 
 template<class T>
-bool SeqList<T>::insert(T &num, int position){
+bool SeqList<T>::insert(int position, T &num){
     if(this -> max == this -> last + 1){
         return false;
     }

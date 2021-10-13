@@ -33,7 +33,7 @@ Then, use your compiler or IDE, compile it!
 编译就完事了！
 
 ```shell
-g++ -o TestCase-XX.cpp
+g++ TestCase-XX.cpp -o TestCase-XX.exe
 ```
 
 <br>

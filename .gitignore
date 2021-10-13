@@ -1,1 +1,5 @@
 *.exe
+*.doc
+*.docx
+*.xls
+*.xlsx
